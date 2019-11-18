@@ -1,0 +1,6 @@
+print("Pakistan Zindabad")
+print("we are Pakistani")
+print("i love pakistan")
+print("AI professional Classes")
+print("Hello World")
+print("Hello World of AI")
