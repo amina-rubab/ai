@@ -7,4 +7,4 @@ print("The Average Percentage of",Subject,":", Percentage)
 if Percentage<60:
     print("Fails")
 elif Percentage >= 60:
-    print("Pass")
+    print("Congratulation you have passed the exam")
